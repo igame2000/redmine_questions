@@ -1,0 +1,28 @@
+# English strings go here for Rails i18n
+en:
+  label_questions: '解答和求助'
+  label_questions_search: '搜索问题、解答或主题...'
+  label_questions_new: 新问题
+  label_questions_message: 消息
+  label_questions_added_time: "添加于%{value} 之前"
+  label_questions_related_messages: 相关消息
+  label_questions_latest_messages: 最新消息
+  label_questions_views: '%{count} 浏览'
+  label_questions_votes: '%{count} 投票'
+  label_questions_answers: '%{count} 解答'
+  label_questions_tags: 标签
+  label_questions_tagged_by: '%{count} 个主题含有 %{tag} 标签'
+  label_questions_notice_message: 提示消息
+  label_questions_notice: 提示
+  label_questions_most_voted: 最多投票
+
+  button_questions_vote: 投票
+  button_questions_unvote: 取消投票
+  button_questions_like: 喜欢
+  button_questions_unlike: 不喜欢
+
+  field_questions_tags: 标签
+
+  permission_view_questions: 查看求助和解答
+  permission_edit_messages_tags: 编辑标签
+  permission_edit_vote_messages: 消息投票
